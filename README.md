@@ -1,5 +1,10 @@
 # infographics
 
+<p align="center">
+  <img src="assets/cover.png" alt="infographics" width="800"/>
+</p>
+
+
 A server-rendered infographic designer built with Bun and TypeScript.
 
 ## What is this?
