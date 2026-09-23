@@ -1,2 +1,7 @@
 archives
 node_modules/
+
+# logs and temp
+*.log
+*.zip
+.DS_Store

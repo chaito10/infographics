@@ -35,6 +35,10 @@ bun run build  # start the server
 
 Open http://localhost:3000, type infographic syntax in the editor, and export the result as SVG or PNG.
 
+## Documentation
+
+See [docs/index.md](docs/index.md) for an overview, scripts, and docs structure.
+
 ## License
 
 No license has been specified for this project yet.
