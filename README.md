@@ -4,6 +4,7 @@
   <img src="assets/cover.png" alt="infographics" width="800"/>
 </p>
 
+[![CI](https://github.com/chaito10/infographics/actions/workflows/ci.yml/badge.svg)](https://github.com/chaito10/infographics/actions/workflows/ci.yml)
 
 A server-rendered infographic designer built with Bun and TypeScript.
 
